@@ -1,0 +1,8 @@
+prefix=/home/anthony/Learning/school/COMP417/comp417_ws/devel
+
+Name: wall_following_assignment
+Description: Description of wall_following_assignment
+Version: 0.0.0
+Cflags: -I/home/anthony/Learning/school/COMP417/comp417_ws/src/comp417/wall_following_assignment/include
+Libs: -L/home/anthony/Learning/school/COMP417/comp417_ws/devel/lib 
+Requires: 

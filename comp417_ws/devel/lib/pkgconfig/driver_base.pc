@@ -1,0 +1,8 @@
+prefix=/home/anthony/Learning/school/COMP417/comp417_ws/devel
+
+Name: driver_base
+Description: Description of driver_base
+Version: 1.6.8
+Cflags: -I/home/anthony/Learning/school/COMP417/comp417_ws/devel/include -I/home/anthony/Learning/school/COMP417/comp417_ws/src/comp417/driver_common/driver_base/include -I/usr/include
+Libs: -L/home/anthony/Learning/school/COMP417/comp417_ws/devel/lib 
+Requires: message_runtime std_msgs

@@ -1,0 +1,8 @@
+prefix=/home/anthony/Learning/school/COMP417/comp417_ws/devel
+
+Name: twist_mux
+Description: Description of twist_mux
+Version: 3.0.0
+Cflags: -I/home/anthony/Learning/school/COMP417/comp417_ws/src/comp417/twist_mux/include
+Libs: -L/home/anthony/Learning/school/COMP417/comp417_ws/devel/lib 
+Requires: roscpp std_msgs geometry_msgs visualization_msgs diagnostic_updater
